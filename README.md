@@ -2,7 +2,7 @@
 #### Alan Bucknum
 
 ## Project Requirements
-The existing Eagle files are present at this link (at the docs folder in the repository). Below changes are to be applied:
+The existing Eagle files are present at [this link](https://github.com/eSpark-Consultants/alanbucknum-eaglepcb/tree/main/docs/Client-Files/Original-Design) (at the docs folder in the repository). Below changes are to be applied:
 - The two buttons (SW1 & SW2) to be moved to the backside. Ideally SW1 & SW2 would be centered (top/bottom), and closer to the right-hand side
 - The PCB length (currently 40mm) should be 20mm or less.
 - Width is made as small as possible while maintaining technical accuracy and considerations.
