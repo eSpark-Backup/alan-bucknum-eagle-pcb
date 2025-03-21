@@ -12,7 +12,7 @@ The existing Eagle files are present at [this link](https://github.com/eSpark-Co
 - Remove TP D7_ACCEL & TP GND.
 - Remove: LDO and RCHRG Circuit.
 - Remove: RFM69 & Antenna.
-- Remove: Micro-USB, ICSP Pins.
+- Remove: USB Type C, ICSP Pins.
 - Remove: AVR MCU.
 - Replace: LEDs with 3mm TH IR LEDs.
 - Replace: MCU with SEEEDSTUDIO ESP32C6
